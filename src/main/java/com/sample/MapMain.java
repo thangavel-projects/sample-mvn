@@ -28,6 +28,8 @@ public class MapMain {
         itemMap.put(1, "gold1");
         itemMap.put(2, "gold2");
         itemMap.put(3, "gold3");
+        itemMap.put(4, "gold4");
+
 
 
 //        if (item_ids == null || item_ids.length == 0) {

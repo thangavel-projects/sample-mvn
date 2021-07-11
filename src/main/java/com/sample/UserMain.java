@@ -16,8 +16,7 @@ public class UserMain {
     public static void main(String[] args) throws Exception {
 
 
-        List<User> list = List.of(new User("Admwin", "admin", "empty")
-                                    ,new User("Normal", "normal", "empty"));
+        List<User> list = null;
 
         list.stream()
               .filter(a -> a.equals("Admin"))
