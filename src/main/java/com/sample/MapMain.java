@@ -29,6 +29,7 @@ public class MapMain {
         itemMap.put(2, "gold2");
         itemMap.put(3, "gold3");
         itemMap.put(4, "gold4");
+        itemMap.put(5, "gold5");
 
 
 
